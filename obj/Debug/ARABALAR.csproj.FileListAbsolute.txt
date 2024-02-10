@@ -1,0 +1,14 @@
+F:\Flexbox\OOP Code\ARABALAR\bin\Debug\ARABALAR.exe.config
+F:\Flexbox\OOP Code\ARABALAR\bin\Debug\ARABALAR.exe
+F:\Flexbox\OOP Code\ARABALAR\bin\Debug\ARABALAR.pdb
+F:\Flexbox\OOP Code\ARABALAR\obj\Debug\ARABALAR.csproj.AssemblyReference.cache
+F:\Flexbox\OOP Code\ARABALAR\obj\Debug\ARABALAR.csproj.CoreCompileInputs.cache
+F:\Flexbox\OOP Code\ARABALAR\obj\Debug\ARABALAR.exe
+F:\Flexbox\OOP Code\ARABALAR\obj\Debug\ARABALAR.pdb
+C:\Users\İzzet\Desktop\ARABALAR\bin\Debug\ARABALAR.exe.config
+C:\Users\İzzet\Desktop\ARABALAR\bin\Debug\ARABALAR.exe
+C:\Users\İzzet\Desktop\ARABALAR\bin\Debug\ARABALAR.pdb
+C:\Users\İzzet\Desktop\ARABALAR\obj\Debug\ARABALAR.csproj.AssemblyReference.cache
+C:\Users\İzzet\Desktop\ARABALAR\obj\Debug\ARABALAR.csproj.CoreCompileInputs.cache
+C:\Users\İzzet\Desktop\ARABALAR\obj\Debug\ARABALAR.exe
+C:\Users\İzzet\Desktop\ARABALAR\obj\Debug\ARABALAR.pdb

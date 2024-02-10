@@ -1,0 +1,203 @@
+VOLVO,XC:90,Momentum,Hava Filtresi,43
+VOLVO,XC:90,Momentum,Yağ Filtresi,4
+VOLVO,XC:90,Momentum,Sis Lambası,24
+VOLVO,XC:90,Momentum,Şasi ,28
+VOLVO,XC:90,Momentum,Buji,45
+VOLVO,XC:90,Momentum,Fren Slindiri,57
+VOLVO,XC:90,Momentum,Amartisör ,94
+VOLVO,XC:90,Momentum,Klima Radyatörü,27
+VOLVO,XC:90,Momentum,Stop Lambası,32
+VOLVO,XC:90,Momentum,Motor Filtresi,9
+VOLVO,XC:90,Inscription,Hava Filtresi,75
+VOLVO,XC:90,Inscription,Yağ Filtresi,5
+VOLVO,XC:90,Inscription,Sis Lambası,45
+VOLVO,XC:90,Inscription,Şasi ,14
+VOLVO,XC:90,Inscription,Buji,74
+VOLVO,XC:90,Inscription,Fren Slindiri,7
+VOLVO,XC:90,Inscription,Amartisör ,31
+VOLVO,XC:90,Inscription,Klima Radyatörü,18
+VOLVO,XC:90,Inscription,Stop Lambası,21
+VOLVO,XC:90,Inscription,Motor Filtresi,13
+Mercedes Benz,E Class,E350 AMG Line,Hava Filtresi,62
+Mercedes Benz,E Class,E350 AMG Line,Yağ Filtresi,26
+Mercedes Benz,E Class,E350 AMG Line,Sis Lambası,42
+Mercedes Benz,E Class,E350 AMG Line,Şasi ,22
+Mercedes Benz,E Class,E350 AMG Line,Buji,40
+Mercedes Benz,E Class,E350 AMG Line,Fren Slindiri,117
+Mercedes Benz,E Class,E350 AMG Line,Amartisör ,90
+Mercedes Benz,E Class,E350 AMG Line,Klima Radyatörü,45
+Mercedes Benz,E Class,E350 AMG Line,Stop Lambası,12
+Mercedes Benz,E Class,E350 AMG Line,Motor Filtresi,19
+Mercedes Benz,E Class,E-Class All-Terrain,Hava Filtresi,49
+Mercedes Benz,E Class,E-Class All-Terrain,Yağ Filtresi,34
+Mercedes Benz,E Class,E-Class All-Terrain,Sis Lambası,108
+Mercedes Benz,E Class,E-Class All-Terrain,Şasi ,118
+Mercedes Benz,E Class,E-Class All-Terrain,Buji,34
+Mercedes Benz,E Class,E-Class All-Terrain,Fren Slindiri,105
+Mercedes Benz,E Class,E-Class All-Terrain,Amartisör ,80
+Mercedes Benz,E Class,E-Class All-Terrain,Klima Radyatörü,44
+Mercedes Benz,E Class,E-Class All-Terrain,Stop Lambası,122
+Mercedes Benz,E Class,E-Class All-Terrain,Motor Filtresi,115
+Wolkswagen,Golf,R-Line,Hava Filtresi,67
+Wolkswagen,Golf,R-Line,Yağ Filtresi,17
+Wolkswagen,Golf,R-Line,Sis Lambası,113
+Wolkswagen,Golf,R-Line,Şasi ,103
+Wolkswagen,Golf,R-Line,Buji,103
+Wolkswagen,Golf,R-Line,Fren Slindiri,38
+Wolkswagen,Golf,R-Line,Amartisör ,17
+Wolkswagen,Golf,R-Line,Klima Radyatörü,41
+Wolkswagen,Golf,R-Line,Stop Lambası,131
+Wolkswagen,Golf,R-Line,Motor Filtresi,95
+Wolkswagen,Golf,Impression,Hava Filtresi,34
+Wolkswagen,Golf,Impression,Yağ Filtresi,61
+Wolkswagen,Golf,Impression,Sis Lambası,77
+Wolkswagen,Golf,Impression,Şasi ,74
+Wolkswagen,Golf,Impression,Buji,106
+Wolkswagen,Golf,Impression,Fren Slindiri,84
+Wolkswagen,Golf,Impression,Amartisör ,25
+Wolkswagen,Golf,Impression,Klima Radyatörü,22
+Wolkswagen,Golf,Impression,Stop Lambası,15
+Wolkswagen,Golf,Impression,Motor Filtresi,14
+Mazda,CX-5,Grand Touring,Hava Filtresi,55
+Mazda,CX-5,Grand Touring,Yağ Filtresi,88
+Mazda,CX-5,Grand Touring,Sis Lambası,32
+Mazda,CX-5,Grand Touring,Şasi ,28
+Mazda,CX-5,Grand Touring,Buji,147
+Mazda,CX-5,Grand Touring,Fren Slindiri,57
+Mazda,CX-5,Grand Touring,Amartisör ,142
+Mazda,CX-5,Grand Touring,Klima Radyatörü,27
+Mazda,CX-5,Grand Touring,Stop Lambası,13
+Mazda,CX-5,Grand Touring,Motor Filtresi,29
+Mazda,CX-5,Signature,Hava Filtresi,38
+Mazda,CX-5,Signature,Yağ Filtresi,30
+Mazda,CX-5,Signature,Sis Lambası,70
+Mazda,CX-5,Signature,Şasi ,75
+Mazda,CX-5,Signature,Buji,135
+Mazda,CX-5,Signature,Fren Slindiri,64
+Mazda,CX-5,Signature,Amartisör ,32
+Mazda,CX-5,Signature,Klima Radyatörü,79
+Mazda,CX-5,Signature,Stop Lambası,17
+Mazda,CX-5,Signature,Motor Filtresi,174
+Honda,Civic,EX-L,Hava Filtresi,110
+Honda,Civic,EX-L,Yağ Filtresi,29
+Honda,Civic,EX-L,Sis Lambası,40
+Honda,Civic,EX-L,Şasi ,32
+Honda,Civic,EX-L,Buji,21
+Honda,Civic,EX-L,Fren Slindiri,69
+Honda,Civic,EX-L,Amartisör ,11
+Honda,Civic,EX-L,Klima Radyatörü,69
+Honda,Civic,EX-L,Stop Lambası,36
+Honda,Civic,EX-L,Motor Filtresi,63
+Honda,Civic,Touring,Hava Filtresi,86
+Honda,Civic,Touring,Yağ Filtresi,37
+Honda,Civic,Touring,Sis Lambası,60
+Honda,Civic,Touring,Şasi ,123
+Honda,Civic,Touring,Buji,174
+Honda,Civic,Touring,Fren Slindiri,74
+Honda,Civic,Touring,Amartisör ,88
+Honda,Civic,Touring,Klima Radyatörü,130
+Honda,Civic,Touring,Stop Lambası,25
+Honda,Civic,Touring,Motor Filtresi,65
+Ford,Focus,Titanium,Hava Filtresi,21
+Ford,Focus,Titanium,Yağ Filtresi,43
+Ford,Focus,Titanium,Sis Lambası,50
+Ford,Focus,Titanium,Şasi ,89
+Ford,Focus,Titanium,Buji,118
+Ford,Focus,Titanium,Fren Slindiri,25
+Ford,Focus,Titanium,Amartisör ,111
+Ford,Focus,Titanium,Klima Radyatörü,140
+Ford,Focus,Titanium,Stop Lambası,175
+Ford,Focus,Titanium,Motor Filtresi,24
+Ford,Focus,Trend X,Hava Filtresi,30
+Ford,Focus,Trend X,Yağ Filtresi,23
+Ford,Focus,Trend X,Sis Lambası,115
+Ford,Focus,Trend X,Şasi ,23
+Ford,Focus,Trend X,Buji,130
+Ford,Focus,Trend X,Fren Slindiri,37
+Ford,Focus,Trend X,Amartisör ,117
+Ford,Focus,Trend X,Klima Radyatörü,180
+Ford,Focus,Trend X,Stop Lambası,18
+Ford,Focus,Trend X,Motor Filtresi,17
+BMW,M5,M550i xDrive,Hava Filtresi,72
+BMW,M5,M550i xDrive,Yağ Filtresi,11
+BMW,M5,M550i xDrive,Sis Lambası,17
+BMW,M5,M550i xDrive,Şasi ,27
+BMW,M5,M550i xDrive,Buji,127
+BMW,M5,M550i xDrive,Fren Slindiri,22
+BMW,M5,M550i xDrive,Amartisör ,109
+BMW,M5,M550i xDrive,Klima Radyatörü,66
+BMW,M5,M550i xDrive,Stop Lambası,92
+BMW,M5,M550i xDrive,Motor Filtresi,24
+BMW,M5,Competition,Hava Filtresi,36
+BMW,M5,Competition,Yağ Filtresi,12
+BMW,M5,Competition,Sis Lambası,6
+BMW,M5,Competition,Şasi ,5
+BMW,M5,Competition,Buji,137
+BMW,M5,Competition,Fren Slindiri,151
+BMW,M5,Competition,Amartisör ,25
+BMW,M5,Competition,Klima Radyatörü,55
+BMW,M5,Competition,Stop Lambası,19
+BMW,M5,Competition,Motor Filtresi,90
+Audi,A7,Quattro S tronic,Hava Filtresi,14
+Audi,A7,Quattro S tronic,Yağ Filtresi,9
+Audi,A7,Quattro S tronic,Sis Lambası,2
+Audi,A7,Quattro S tronic,Şasi ,1
+Audi,A7,Quattro S tronic,Buji,155
+Audi,A7,Quattro S tronic,Fren Slindiri,141
+Audi,A7,Quattro S tronic,Amartisör ,39
+Audi,A7,Quattro S tronic,Klima Radyatörü,52
+Audi,A7,Quattro S tronic,Stop Lambası,97
+Audi,A7,Quattro S tronic,Motor Filtresi,37
+Audi,A7,Quattro Tiptronic,Hava Filtresi,71
+Audi,A7,Quattro Tiptronic,Yağ Filtresi,1
+Audi,A7,Quattro Tiptronic,Sis Lambası,81
+Audi,A7,Quattro Tiptronic,Şasi ,10
+Audi,A7,Quattro Tiptronic,Buji,112
+Audi,A7,Quattro Tiptronic,Fren Slindiri,104
+Audi,A7,Quattro Tiptronic,Amartisör ,36
+Audi,A7,Quattro Tiptronic,Klima Radyatörü,31
+Audi,A7,Quattro Tiptronic,Stop Lambası,102
+Audi,A7,Quattro Tiptronic,Motor Filtresi,16
+Fiat,Egea,Urban,Hava Filtresi,92
+Fiat,Egea,Urban,Yağ Filtresi,15
+Fiat,Egea,Urban,Sis Lambası,66
+Fiat,Egea,Urban,Şasi ,23
+Fiat,Egea,Urban,Buji,28
+Fiat,Egea,Urban,Fren Slindiri,20
+Fiat,Egea,Urban,Amartisör ,63
+Fiat,Egea,Urban,Klima Radyatörü,21
+Fiat,Egea,Urban,Stop Lambası,138
+Fiat,Egea,Urban,Motor Filtresi,83
+Fiat,Egea,Lounge,Hava Filtresi,20
+Fiat,Egea,Lounge,Yağ Filtresi,24
+Fiat,Egea,Lounge,Sis Lambası,45
+Fiat,Egea,Lounge,Şasi ,14
+Fiat,Egea,Lounge,Buji,23
+Fiat,Egea,Lounge,Fren Slindiri,16
+Fiat,Egea,Lounge,Amartisör ,67
+Fiat,Egea,Lounge,Klima Radyatörü,23
+Fiat,Egea,Lounge,Stop Lambası,126
+Fiat,Egea,Lounge,Motor Filtresi,119
+Kia,Telluride,SX,Hava Filtresi,3
+Kia,Telluride,SX,Yağ Filtresi,44
+Kia,Telluride,SX,Sis Lambası,32
+Kia,Telluride,SX,Şasi ,17
+Kia,Telluride,SX,Buji,57
+Kia,Telluride,SX,Fren Slindiri,100
+Kia,Telluride,SX,Amartisör ,72
+Kia,Telluride,SX,Klima Radyatörü,7
+Kia,Telluride,SX,Stop Lambası,128
+Kia,Telluride,SX,Motor Filtresi,117
+Kia,Telluride,EX,Hava Filtresi,33
+Kia,Telluride,EX,Yağ Filtresi,8
+Kia,Telluride,EX,Sis Lambası,17
+Kia,Telluride,EX,Şasi ,38
+Kia,Telluride,EX,Buji,56
+Kia,Telluride,EX,Fren Slindiri,51
+Kia,Telluride,EX,Amartisör ,79
+Kia,Telluride,EX,Klima Radyatörü,78
+Kia,Telluride,EX,Stop Lambası,4
+Kia,Telluride,EX,Motor Filtresi,33
+
+
+

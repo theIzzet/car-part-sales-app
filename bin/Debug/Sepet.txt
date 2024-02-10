@@ -1,0 +1,6 @@
+İzzet,VOLVO,XC:90,Momentum,Hava Filtresi,10,Transaction successful
+İzzet,VOLVO,XC:90,Momentum,Yağ Filtresi,15,Transaction successful
+İzzet,VOLVO,XC:90,Momentum,Amartisör,10,Transaction successful
+İzzet,VOLVO,XC:90,Momentum,Amartisör,10
+İzzet,Fiat,Egea,Urban,Yağ Filtresi,5
+İzzet,Kia,Telluride,EX,Klima Radyatörü,5
